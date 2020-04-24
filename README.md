@@ -1,4 +1,4 @@
-# [NCL] National Cyber League
+# National Cyber League [NCL]
 ![GitHub repo size](https://img.shields.io/github/repo-size/MarKyehus/NCL)
 ## How To Use
 Use http://kinolien.github.io/gitzip to download a specific folder in the git
