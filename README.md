@@ -3,7 +3,7 @@
 ## How To Use
 Use http://kinolien.github.io/gitzip to download a specific folder in the git
 
-### CTF Challenges 
+## CTF Challenges 
 Spring
 1. Open Source Intelligence: Utilize publicly available information such as search engines, public repositories, social media, and more to gain in-depth knowledge on a topic or target.
 2. Cryptography: Identify techniques used to encrypt or obfuscate messages and leverage tools to extract the plain text.
